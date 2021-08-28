@@ -1,5 +1,3 @@
-CSS
-
 #RAMYV .title {
   background:#ae78ed !important;
   text-shadow:
