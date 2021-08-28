@@ -1,0 +1,123 @@
+#RAMYVEN {
+  border:none !important;
+}
+#RAMYVEN b {
+  color:#ae78ed !important;
+}
+#RAMYVEN .title {
+  background:#ae78ed !important;
+  text-shadow:
+  1px 1px 0 #8d56cd,
+  1px -1px 0 #8d56cd,
+  -1px 1px 0 #8d56cd,
+  -1px -1px 0 #8d56cd !important;
+}
+#RAMYVEN .title2 {
+  background:#ae78ed !important;
+  text-shadow:
+  1px 1px 0 #8d56cd,
+  1px -1px 0 #8d56cd,
+  -1px 1px 0 #8d56cd,
+  -1px -1px 0 #8d56cd !important;
+}
+
+.mbspost1 {
+  width:300px;
+  padding:0px 0px 0px 25px;
+  background:#fff;
+  border:1px solid #e8e8e8;
+  position:relative;
+  top:0px;
+  left:0px;
+  font-family:'Nunito', sans-serif;
+  line-height:105%;
+  font-size:15px;
+  text-transform:lowercase;
+}
+.mbspost2 {
+  padding:0px 25px 30px 0px;
+  width:250px;
+  background:#fff;
+  text-align:justify;
+  color:#4d4d4d;
+  position:relative;
+  top:25px;
+  left:0px;
+}
+.mbspost1 b {
+  font-size:105%;
+  font-weight:700;
+  letter-spacing:0.5px;
+}
+.mbspost1 i {
+  font-size:105%;
+  font-style:italic;
+  letter-spacing:0.5px;
+}
+.mbspost3 {
+  border-top:1px solid #e8e8e8;
+  background:#fff;
+  padding:25px 0px 25px 0px;
+  width:250px;
+  position:relative;
+  top:0px;
+  left:-15px;
+  text-align:justify;
+  font-size:13px;
+  color:#4d4d4d;
+}
+.mbspost1 .title {
+  width:180px;
+  height:28px;
+  padding:15px;
+  background:#e8e8e8;
+  border-bottom-left-radius:20px;
+  position:relative;
+  top:0px;
+  left:45px;
+  line-height:100%;
+  font-weight:900;
+  letter-spacing:0.5px;
+  font-size:28px;
+  color:#fff;
+  font-family:'Nunito', sans-serif;
+  text-transform:uppercase;
+  text-align:justify;
+  text-shadow:
+  1px 1px 0 #a5a5a5,
+  1px -1px 0 #a5a5a5,
+  -1px 1px 0 #a5a5a5,
+  -1px -1px 0 #a5a5a5;
+}
+.mbspost1 .title2 {
+  width:170px;
+  height:28px;
+  padding:15px 25px 15px 15px;
+  background:#e8e8e8;
+  border-top-right-radius:20px;
+  position:relative;
+  top:0px;
+  left:-70px;
+  line-height:90%;
+  font-weight:900;
+  letter-spacing:0.5px;
+  font-size:16px;
+  color:#fff;
+  font-family:'Nunito', sans-serif;
+  text-transform:uppercase;
+  text-align:right;
+  text-shadow:
+  1px 1px 0 #a5a5a5,
+  1px -1px 0 #a5a5a5,
+  -1px 1px 0 #a5a5a5,
+  -1px -1px 0 #a5a5a5;
+}
+.mbspost1 .title2 a::before {
+ content:none
+}
+.mbspost1 .title2 a::after {
+ content:none
+}
+.mbspost1 .title2 a {
+ text-decoration:none;
+}
