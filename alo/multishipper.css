@@ -108,7 +108,7 @@
   width:300px;
   position:absolute;
   top:0px;
-  left:-60px;
+  left:-60.5px;
   font-size:28px;
   color:#fff;
   text-transform:uppercase;
@@ -122,6 +122,7 @@
   -1px -1px 0 #a5a5a5;
   text-align:left;
   border-bottom:1px solid #fff;
+  border-left:1px solid #fff;
 }
 .mythicalcss .info {
   padding:20px 15px 25px 20px;
@@ -184,7 +185,7 @@
   text-transform:uppercase;
   font-family:'Nunito', sans-serif;
   line-height:90%;
-  font-weight:bold;
+  font-weight:700;
   text-shadow:
   1px 1px 0 #a5a5a5,
   1px -1px 0 #a5a5a5,
@@ -192,5 +193,6 @@
   -1px -1px 0 #a5a5a5;
   text-align:left;
   border-top:1px solid #fff;
+  border-right:1px solid #fff;
   z-index:15;
 }
