@@ -120,4 +120,10 @@
 }
 .mbspost1 .title2 a {
  text-decoration:none;
+ color:#fff;
+}
+.mbspost3 a {
+ text-decoration:none;
+ color:#4d4d4d;
+ font-weight:700;
 }
