@@ -113,7 +113,14 @@
   -1px -1px 0 #a5a5a5;
 }
 .mbspost1 .title2 a::before {
- content:none
+ content:"#";
+ color:#fff;
+ font-weight:900;
+ text-shadow:
+  1px 1px 0 #a5a5a5,
+  1px -1px 0 #a5a5a5,
+  -1px 1px 0 #a5a5a5,
+  -1px -1px 0 #a5a5a5;
 }
 .mbspost1 .title2 a::after {
  content:none
@@ -125,5 +132,10 @@
 .mbspost3 a {
  text-decoration:none;
  color:#4d4d4d;
+ font-weight:700;
+}
+.mbspost3 a::before {
+  content:"#";
+  color:#9f5066;
  font-weight:700;
 }
