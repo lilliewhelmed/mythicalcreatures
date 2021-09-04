@@ -20,6 +20,13 @@
   -1px 1px 0 #8d56cd,
   -1px -1px 0 #8d56cd !important;
 }
+#RAMYVEN .title2 a::before {
+  text-shadow:
+  1px 1px 0 #8d56cd,
+  1px -1px 0 #8d56cd,
+  -1px 1px 0 #8d56cd,
+  -1px -1px 0 #8d56cd !important;
+}
 
 .mbspost1 {
   width:300px;
